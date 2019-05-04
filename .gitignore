@@ -1,4 +1,7 @@
 *.mp4
+bmi_and_life_expectancy.csv
+data.csv
+projects/boston_housing/notes.txt
 
 # Mac OS
 .DS_Store
